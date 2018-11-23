@@ -25,4 +25,4 @@ Document classification based on the words in the documents
   
   Accuracy - 0.9820359281437125
   
-  Kappy - 0.9774003653833142
+  Kappa - 0.9774003653833142
